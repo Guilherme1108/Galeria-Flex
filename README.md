@@ -9,4 +9,4 @@ Primeira galeria feita no modelo flex
 * CSS
 
 ## Autor
-[Guilherme Moreira](https://www.linkedin.com/in/guilherme-moreira-08a8b8348/)
+[Guilherme Moreira](https://www.linkedin.com/in/guilherme-moreira-08a8b8348/)# Galeria-Flex
